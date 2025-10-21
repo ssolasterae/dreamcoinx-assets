@@ -1,0 +1,12 @@
+{
+  "name": "Red Dress Coin",
+  "symbol": "RDRS",
+  "description": "The embodiment of awareness within the DreamCoin X network. Red Dress Coin is boundless by design: new mints appear whenever perception manifests. To hold RDRS is to have been seen.",
+  "image": "https://raw.githubusercontent.com/ssolasterae/dreamcoinx-assets/main/RedDressCoin/Red_Dress_Coin.png",
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Scarlett Muse" },
+    { "trait_type": "Energy", "value": "Awareness" },
+    { "trait_type": "Era", "value": "2035" },
+    { "trait_type": "Supply", "value": "Infinite" }
+  ]
+}
