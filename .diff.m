@@ -1,3 +1,0 @@
-!RedDressCoin/
-!.gitignore
-!README.md
